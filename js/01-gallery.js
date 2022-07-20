@@ -44,6 +44,7 @@ function openImageClick(evt) {
 }
 
 
+
 function modalLightBox(url) {
     const instance = basicLightbox.create(`
     <img src='${url}' width='800' height='600'></img>
